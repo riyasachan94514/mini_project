@@ -27,7 +27,7 @@ from sklearn.pipeline import Pipeline
 import warnings
 warnings.filterwarnings('ignore')
 
-df = pd.read_csv("https://raw.githubusercontent.com/Apaulgithub/oibsip_taskno4/main/spam.csv", encoding='ISO-8859-1')
+df = pd.read_csv("https://raw.githubusercontent.com/riyasachan94514/mini_project/main/spam.csv", encoding='ISO-8859-1')
 
 
 df.head()
