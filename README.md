@@ -86,9 +86,5 @@ Let's keep our inboxes spam-free and our communications secure.
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [Riya Sachan](https://www.linkedin.com/in/riya-sachan-714b2b33b/)
 
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
